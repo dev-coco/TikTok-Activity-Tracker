@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "抖音记录",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "获取抖音关注数、粉丝数、好友数。",
   "author": "Raz1ner",
   "action": {
